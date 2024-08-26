@@ -1,0 +1,5 @@
+pyprojroot==0.3.0
+selenium==4.21.0
+opencv-python==4.10.0.82
+deepface==0.0.91
+jupyter==1.0.0
